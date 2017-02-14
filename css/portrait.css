@@ -1,0 +1,54 @@
+#landscape {
+	display:none;
+}
+
+/*////////////////////////////////////////////////////*/
+
+body {
+	background-color:#ffffff;
+	background-image:url(http://s7g1.scene7.com/is/image/BandQ/5011583024432_001c_v001_zp?$48x48_generic$=);
+}
+
+#infos {
+	margin-top:40px;
+}
+#infosDead {
+	margin-top:20px;
+	width:250px;
+	padding: 10px 0px;
+	background-color:white;
+	opacity:0.7;
+	color:black;
+	-webkit-border-radius:  20px;
+	-moz-border-radius:  20px;
+	border-radius:  20px;
+	border:2px red solid;
+	
+}
+
+#passshoot_input {
+	font-size:60px;
+}
+
+#kill_button {
+	font-size:60px;
+	float:right;
+}
+
+.uneLignAlive {
+	margin:30px 30px;
+	width:90%;	
+	padding: 30px 30px;
+	font-size: 60px;
+	font-weight: bold;
+	color:black;
+	background-color:grey;
+	height:270px;
+	border:1px black solid;
+	-webkit-border-radius:  10px;
+	-moz-border-radius:  10px;
+	border-radius:  10px;
+}
+.gpsText{
+	width:60px;
+}

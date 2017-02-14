@@ -1,0 +1,28 @@
+/*--- PAYSAGE POUR AFFICHAGE COCKTAILS ---*/
+
+body {
+	color:white;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#blueBarre {
+	position:fixed;
+	background-color:#263894;
+	top:0;
+	left:0;
+	height:100px;
+	width:100%;
+	border: 0 0 10px 0 white dashed; 
+}
+
+#meLeft {
+	position:fixed;
+	top:3px;
+	left:5px;
+}
+#meRight {
+	position:fixed;
+	top:1px;
+	right:5px;
+}
